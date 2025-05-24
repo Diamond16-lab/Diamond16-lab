@@ -1,75 +1,74 @@
-# 👋 ¡Hola! Soy David Carrera Leyva
-
-**Ingeniero Mecatrónico | Analista de Datos en formación | Apasionado por la IA, la automatización y la ingeniería de datos**
-
----
-
-🎯 Actualmente me encuentro desarrollando habilidades en ciencia de datos aplicando Python, SQL, machine learning y visualización de datos en proyectos reales mediante el bootcamp de TripleTen.  
-
-💡 Con experiencia en automatización industrial, visión por computadora, prototipado, control de calidad y análisis técnico, combino mi formación en ingeniería con un enfoque analítico y estratégico para resolver problemas reales con soluciones eficientes y escalables.
+<!-- Encabezado con animación de escritura -->
+<h1 align="center">¡Hola! 👋 Soy David</h1>
+<h3 align="center">Ingeniero Mecatrónico | Analista de Datos | Apasionado por la Tecnología</h3>
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧠 Sobre mí
+
+Soy un ingeniero mecatrónico con una fuerte pasión por el análisis de datos y la automatización. Actualmente, estoy profundizando mis conocimientos en ciencia de datos a través del bootcamp de TripleTen, donde aplico técnicas de machine learning y visualización de datos para resolver problemas del mundo real. Mi objetivo es combinar mis habilidades técnicas con el análisis de datos para impulsar soluciones innovadoras.
+
+---
+
+
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,solidworks,catia,opencv,git,arduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,sql,java,html,excel,arduino,linux,git,github,vscode,powerbi,tableau,opencv&theme=light" />
 </p>
 
-**Lenguajes:**  
-`Python` • `SQL` • `C++` • `Bash` • `Java`  
+📌 **Herramientas adicionales:**
+- **SAP** – Gestión empresarial e inventarios  
+- **CATIA** – Diseño CAD 3D para ingeniería mecánica  
+- **Anycubic** – Impresión 3D en resina y FDM  
+- **JIRA** – Gestión de proyectos ágiles (Scrum/Kanban)  
+- **Android Studio** – Desarrollo básico de apps móviles  
+- **Filmora** – Edición de video para presentaciones técnicas  
 
-**Análisis de Datos & Machine Learning:**  
-`Pandas` • `NumPy` • `scikit-learn` • `Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
 
-**Visión por Computadora & Automatización:**  
-`OpenCV` • `Arduino` • `ROS` • `PLC` • `LabVIEW` • `SolidWorks` • `AutoCAD`
+## 📂 Proyectos Destacados
 
-**DevOps & Herramientas:**  
-`Git/GitHub` • `Jupyter Notebooks` • `Docker (básico)` • `CI/CD (básico)`
-
----
-
-## 🚀 Proyectos Destacados
-
-### 📊 Análisis de Pérdida de Clientes
-Modelo predictivo para prevenir churn usando regresión supervisada (random forest). Incluye limpieza de datos, visualizaciones y recomendaciones estratégicas.  
+### 🔍 Análisis de Pérdida de Clientes
+- Limpieza y análisis de más de 5,000 registros de comportamiento.
+- Construcción de modelo predictivo con Random Forest.
+- Identificación de variables críticas y mejora de retención estimada en un 12%.
 
 ### 🧪 A/B Testing en Plataforma de Streaming
-Evaluación estadística con pruebas de hipótesis y visualización en Power BI. Validación de impacto de nuevas interfaces de usuario.  
+- Implementación de prueba estadística para dos versiones de interfaz.
+- Análisis visual con Power BI y validación de métricas.
+- Recomendación de la versión B que mejoró retención en un 8.3%.
 
+### 🤖 Visión por Computadora – TMR
+- Desarrollo de sistema de detección de objetos en tiempo real utilizando OpenCV.
+- Participación en la competencia TMR 2023, obteniendo el 3er lugar nacional.
 
-### 🤖 Visión por Computadora (INAOE – TMR 2023)
-Sistema de detección y etiquetado de objetos usando Python/OpenCV. Logré el 3er lugar en la competencia nacional TMR 2023.  
-
-
-### 🔧 Prototipado 3D y Automatización para Stellantis (FORVIA)
-Desarrollo de prototipos de puertas automotrices, gestión de materiales y producción en planta piloto.  
-
----
-
-## 🧠 Actualmente trabajando en...
-
-- Desarrollo de dashboards con Power BI y Tableau  
-- Modelos de machine learning con scikit-learn  
-- Integración de sensores con Arduino y análisis de señales  
-- Construcción de pipelines ETL y limpieza avanzada de datos  
-- Preparación de portafolio completo para GitHub y LinkedIn  
+### 🔧 Prototipado y Automatización – FORVIA
+- Desarrollo de prototipos físicos y validación técnica para componentes automotrices.
+- Coordinación de producción en planta piloto y supervisión de logística de materiales.
 
 ---
 
-## 🌎 Sobre mí
+## 📜 Certificaciones
 
-📍 Puebla, México  
-🧑‍🎓 Egresado de UDLAP – Ingeniería Mecatrónica  
-📈 Apasionado por traducir datos en decisiones accionables  
-🤝 Abierto a colaborar en proyectos de automatización, datos o tecnología educativa  
+- [ ] **Ciencia de Datos** – TripleTen (En curso)
 
 ---
 
-## 📬 Conecta conmigo
+## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/david-carrera-leyva-1aa491199)  
 📫 Correo: david.ddaia@hotmail.com  
 💻 GitHub: [Diamond16-lab](https://github.com/Diamond16-lab)
+---
+
+
+## 🏆 Trofeos de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diamond16-lab&theme=flat" alt="Trofeos de GitHub" />
+</p>
+
+---
+
+
 
