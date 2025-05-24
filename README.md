@@ -3,11 +3,9 @@
 ## 🧠 Sobre mí
 
 <p align="justify">
-  Soy un ingeniero mecatrónico con una fuerte pasión por el análisis de datos y la automatización.
-  Actualmente, estoy profundizando mis conocimientos en ciencia de datos a través del bootcamp
-  de TripleTen, donde aplico técnicas de machine learning y visualización de datos para resolver
-  problemas del mundo real. Mi objetivo es combinar mis habilidades técnicas con el análisis de
-  datos para impulsar soluciones innovadoras.
+Soy un Ingeniero Mecatrónico con una fuerte inclinación hacia el análisis de datos, la inteligencia artificial y la automatización de procesos. Actualmente, me estoy especializando como Data Analyst a través del bootcamp intensivo de TripleTen, donde aplico técnicas de machine learning supervisado, limpieza de datos y visualización avanzada con herramientas como Python, SQL, Power BI y Tableau.  
+<br><br>
+Mi enfoque se centra en transformar información compleja en soluciones accionables que generen valor real para la toma de decisiones. Combino mi formación técnica en electrónica, control y visión por computadora con nuevas habilidades en ciencia de datos, para crear soluciones innovadoras, automatizadas y orientadas a resultados.  
 </p>
 
 
