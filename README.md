@@ -10,7 +10,11 @@
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🧰 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,solidworks,catia,opencv,git,arduino&theme=light" />
+</p>
 
 **Lenguajes:**  
 `Python` • `SQL` • `C++` • `Bash` • `Java`  
