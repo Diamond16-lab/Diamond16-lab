@@ -1,4 +1,4 @@
-<img src="./assets/banner_2.png" alt="David Carrera Banner" width="100%" />
+<img src="./assets/banner_3.png" alt="David Carrera Banner" width="100%" />
 
 <!-- Encabezado con animación de escritura -->
 <h1 align="center">¡Hola! 👋 Soy David</h1>
