@@ -1,11 +1,5 @@
 <img src="./assets/banner_3.png" alt="David Carrera Banner" width="100%" />
 
-<!-- Encabezado con animación de escritura -->
-<h1 align="center">¡Hola! 👋 Soy David</h1>
-<h3 align="center">Ingeniero Mecatrónico | Analista de Datos | Apasionado por la Tecnología</h3>
-
----
-
 ## 🧠 Sobre mí
 
 Soy un ingeniero mecatrónico con una fuerte pasión por el análisis de datos y la automatización. Actualmente, estoy profundizando mis conocimientos en ciencia de datos a través del bootcamp de TripleTen, donde aplico técnicas de machine learning y visualización de datos para resolver problemas del mundo real. Mi objetivo es combinar mis habilidades técnicas con el análisis de datos para impulsar soluciones innovadoras.
