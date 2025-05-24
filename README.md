@@ -1,3 +1,5 @@
+<img src="./assets/banner_1.png" alt="David Carrera Banner" width="100%" />
+
 <!-- Encabezado con animación de escritura -->
 <h1 align="center">¡Hola! 👋 Soy David</h1>
 <h3 align="center">Ingeniero Mecatrónico | Analista de Datos | Apasionado por la Tecnología</h3>
